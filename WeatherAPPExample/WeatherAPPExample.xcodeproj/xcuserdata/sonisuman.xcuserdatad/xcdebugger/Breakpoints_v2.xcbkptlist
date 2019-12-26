@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8E184C6C-FF5B-43CA-8370-82578696648E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D93A172D-16AB-48A1-A14E-D607A5BA6508"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherAPPExample/Utility/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "getWeatherData(city:completionHendler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "702CDFE6-4212-40A0-8EE8-3AF4DA482316"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherAPPExample/Utility/WeatherService.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "getWeatherData(city:completionHendler:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00A1BC6B-6B7B-4230-BB33-8E8039219D2C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WeatherAPPExample/ViewModels/WetherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "49"
+            endingLineNumber = "49"
+            landmarkName = "featchWeather(by:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "00A1BC6B-6B7B-4230-BB33-8E8039219D2C - 2340bff2b0ca4a97"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "WeatherAPPExample.WetherViewModel.featchWeather(by: Swift.String) -&gt; ()"
+                  moduleName = "WeatherAPPExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonisuman/Desktop/Project/swiftUI/WeatherAPPExample/WeatherAPPExample/WeatherAPPExample/ViewModels/WetherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "101">
+               </Location>
+               <Location
+                  uuid = "00A1BC6B-6B7B-4230-BB33-8E8039219D2C - f42876b55dcf564d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;WeatherAPPExample.Weather&gt;) -&gt; () in WeatherAPPExample.WetherViewModel.featchWeather(by: Swift.String) -&gt; ()"
+                  moduleName = "WeatherAPPExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sonisuman/Desktop/Project/swiftUI/WeatherAPPExample/WeatherAPPExample/WeatherAPPExample/ViewModels/WetherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "338">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
